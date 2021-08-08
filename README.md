@@ -1,1 +1,1 @@
-# supervised-learning-
+examples of commom supervised learning  algorithms
